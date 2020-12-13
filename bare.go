@@ -1,5 +1,6 @@
-package bare
+package main
 
-func World() string {
-	return "bare.World!"
+func main() {
+	print("bare.World!")
+	return
 }
